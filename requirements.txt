@@ -1,1 +1,8 @@
 playwright==1.44.0
+pytest
+python-dotenv
+loguru
+tenacity
+pandas 
+openpyxl 
+requests
