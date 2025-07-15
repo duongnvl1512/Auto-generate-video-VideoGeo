@@ -53,8 +53,8 @@ This project automates web tasks using Playwright, including login, scraping, an
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/duongnvl1512/Auto-generate-video-VideoGeo.git
-   cd Auto-generate-video-VideoGeo
+   git clone https://github.com/duongnvl1512/Auto-generate-video-VideoGen.git
+   cd Auto-generate-video-VideoGen
    ```
 2. **Create a virtual environment (recommended):**
    ```bash
